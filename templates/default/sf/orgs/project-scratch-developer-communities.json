@@ -1,0 +1,18 @@
+{
+    "orgName": "ReactForce",
+    "edition": "Developer",
+    "hasSampleData": false,
+    "description": "Scratch Org with Communities",
+    "features": ["EnableSetPasswordInApi","Communities"],
+    "settings": {
+        "communitiesSettings": {
+            "enableNetworksEnabled": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
+    }
+}
